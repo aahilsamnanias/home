@@ -1,0 +1,1295 @@
+﻿
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+} 
+
+.parallax { 
+    /* The image used */
+    background-image: url("betterhome.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ #headid {
+	display: block;
+	position: absolute;
+	top: 280px;
+	left: 530px;
+	font-size: 50px;
+}
+
+
+ #headidv {
+	display: block;
+	position: absolute;
+	top: 250px;
+	left: 565px;
+	font-size: 50px;
+	color: white;
+}
+#bodyfont {
+	font-family: Quicksand
+}
+
+#location
+{
+	height: 400px;
+	width: 500px;
+	
+}
+
+.column 
+{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 150px;
+	color: black
+}
+
+.column 
+{
+    box-sizing: border-box;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 505px;
+    height:200px;    
+	font-size: 25px;
+}
+
+#rcornersvan {
+    border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 500px;
+    height:170px;    
+	font-size: 25px;
+	position: absolute;
+	top: 610px;
+
+}
+
+#rcornersvan2 {
+    border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 500px;
+    height:194px;    
+	font-size: 25px;
+	position: absolute;
+	top: 610px;
+
+}
+
+#vanmapimg
+{
+	position: absolute;
+	top: 830px;
+}
+
+
+
+
+#locationheader
+{
+	text-align: center;
+}
+
+.parallax2
+{
+	/* The image used */
+    background-image: url("https://images3.alphacoders.com/254/254267.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ #headid2 {
+	display: block;
+	position: absolute;
+	top: 1300px;
+	left: 550px;
+	font-size: 50px
+}
+
+#headid2van
+{
+	display: block;
+	position: absolute;
+	top: 1400px;
+	left: 550px;
+	font-size: 50px;
+	color: white;
+}
+#climatepara
+{
+	font-size: 25px;
+	text-align: center
+}
+
+.parallax3
+{
+
+	/* The image used */
+    background-image: url("valleyz.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#headid3{
+	display: block;
+	position: absolute;
+	top: 2000px;
+	left: 550px;
+	font-size: 50px;
+}
+
+#landformaparagraph { 
+	font-size: 25px;
+	text-align: center
+}
+
+#rcorners3 {
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 550px;
+    height:230px;    
+	font-size: 25px;
+	position: absolute;
+	top: 2480px;
+}
+
+#mountain
+{ 
+	height: 350px;
+	width: 500px;
+}
+
+#cordillera
+{
+	height: 350px;
+	width: 500px;
+	position: absolute;
+	top: 2900px
+}
+
+#rcorners4 {
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 550px;
+    height:285px;    
+	font-size: 25px;
+	position: absolute;
+	top: 2900px
+}
+#caption {
+	position: absolute;
+	top: 3250px;
+}
+
+.parallax4
+{
+	
+	/* The image used */
+    background-image: url("bear.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+	
+#headid4
+{
+	display: block;
+	position: absolute;
+	top: 3500px;
+	left: 550px;
+	font-size: 50px;
+	color: white
+}
+#headid5
+{ 
+	font-size: 30px;
+	text-align: center;
+}
+
+#mammals
+{
+	font-size: 25px;
+}
+
+#mammalspara
+{	
+	font-size: 30px;
+	text-align: center;
+}
+
+#headid6
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+#marine
+{
+	font-size: 25px;
+}
+
+#headid7
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+#reptilespara
+{
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+.parallax5
+{
+	/* The image used */
+    background-image: url("forest.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#headid8
+{
+	display: block;
+	position: absolute;
+	top: 5275px;
+	left: 550px;
+	font-size: 50px;
+	color: white
+}
+
+#vegetationpara
+{
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+#vegetationpara2
+{
+	font-size: 20px;
+	text-align: center;
+}
+
+#rcorners5
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 600px;
+    height:160px;    
+	font-size: 25px;
+	position: absolute;
+	top: 5730px;
+	right: 100px;
+}
+
+#rcorners6
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 600px;
+    height:255px;    
+	font-size: 25px;
+	position: absolute;
+	top: 6120px;
+	left: 65px;
+}
+
+#rcorners7
+
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 600px;
+    height:250px;    
+	font-size: 25px;
+	position: absolute;
+	right: 65px;
+	top: 6575px;
+	
+}
+
+#dougfirtree
+{
+	position: absolute;
+	left: 65px;
+}
+
+#figcapveg
+{	
+	position: absolute;
+	top: 6945px;
+	left: 65px;
+}
+
+#gall
+{
+	position: absolute;
+	right: 375px;
+}
+
+
+
+#plantz
+{
+	position: absolute;
+	right: 1px;
+	top: 7085px;
+}
+
+#ohead
+{
+	position: absolute;
+	right: 580px;
+	top: 7000px;
+	font-size: 35px;
+}
+
+.parallax7
+{
+	/* The image used */
+    background-image: url("zesoil.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#soilhead
+{ 
+	font-size:40px;
+	position: absolute;
+	top: 7600px;
+	color: white;
+	right: 685px;
+}
+
+#soilpara
+{	
+	font-size: 28px;
+	text-align: center;
+}
+
+#rcornersoil
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 680px;
+    height:200px;    
+	font-size: 25px;
+	position: absolute;
+	right:135px;
+	top: 8120px;
+	text-align: center;
+}
+
+#rcornersoil2
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 880px;
+    height:185px;    
+	font-size: 25px;
+	position: absolute;
+	right:235px;
+	top: 8600px;
+	text-align: center;
+}
+
+.button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	position: absolute;
+	top: 8820px;
+	right: 600px;
+}
+
+.button2 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	text-align: center;
+	position: absolute;
+	left: 500px;
+}
+
+.button5 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	position: absolute;
+	left: 780px;
+	top: 7630px;
+}
+
+.button7 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	position: absolute;
+	left: 605px;
+	top: 10500px;
+}
+
+.button9 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	text-align: center;
+	position: absolute;
+	left: 300px;
+}
+
+.button11 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	text-align: center;
+	position: absolute;
+	right:300px;
+}
+
+.button13 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	position: absolute;
+	left: 500px;
+	
+}
+
+.button15 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	position: absolute;
+	left: 500px;
+	
+}
+
+.button99 {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: Quicksand;
+	position: absolute;
+	left: 600px;
+	
+}
+.button3 {border-radius: 8px;}
+
+.button4 {border-radius: 8px;}
+
+.button6 {border-radius: 8px;}
+
+.button8 {border-radius: 8px;}
+
+.button10 {border-radius: 8px;}
+
+.button12 {border-radius: 8px;}
+
+.button14 {border-radius: 8px;}
+
+.button16 {border-radius: 8px;}
+
+#vancordhead
+{
+	text-align: center;
+	font-size: 25px;
+}
+.parallax8
+{
+	/* The image used */
+    background-image: url("vancouver.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax9
+{
+	/* The image used */
+    background-image: url("therainphoto.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax10
+{
+	/* The image used */
+    background-image: url("thelandofvan.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax11
+{
+	/* The image used */
+    background-image: url("therealfoxy.jpg");
+
+    /* Set a specific height */
+    height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax12
+{
+	/* The image used */
+    background-image: url("zeveggies.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax13
+{
+	/* The image used */
+    background-image: url("reallysoil.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax14
+{
+	/* The image used */
+    background-image: url("therealrupert.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax15
+{
+	/* The image used */
+    background-image: url("acutuallyrealclim.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax16
+{
+	/* The image used */
+    background-image: url("thereallandz.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax17
+{
+	/* The image used */
+    background-image: url("marmot.jpg");
+
+    /* Set a specific height */
+    height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax18
+{
+	/* The image used */
+    background-image: url("damnveg.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax19
+{
+	/* The image used */
+    background-image: url("lastsoil.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax20
+{
+	/* The image used */
+    background-image: url("lotsh.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax50
+{
+	/* The image used */
+    background-image: url("bunches.png");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#plantzprince
+{ 
+	position: absolute;
+	top:6280px;
+}
+.parallax100
+{
+	/* The image used */
+    background-image: url("theweird.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax101
+{
+	/* The image used */
+    background-image: url("humanz.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#levegvan
+{
+	position: absolute;
+	top: 5740px;
+	left: 550px;
+	color: white;
+	font-size: 50px;
+}
+
+#landformheadvan
+{
+	color: white;
+	position: absolute;
+	top: 2900px;
+	right: 570px;
+	font-size: 50px;
+}
+
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 15px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+  position: absolute;
+  top: 375px;
+  left: 265px;
+  text-align: center;
+}
+
+div.transbox p {
+  margin: 3%;
+  font-weight: bold;
+  color: #000000;
+}
+
+#ecoclim
+{ 
+	font-size: 25px;
+	text-align: center;
+}
+
+#ecoclim2head
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim2p
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim3head
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim3p
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim4head
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim4p
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim5head
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#ecoclim5p
+{ 
+	font-size: 20px;
+	text-align: center;
+}
+
+#climvan33
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 450px;
+	width: 700px;
+}
+
+#capvan
+{
+	text-align: center;
+}
+
+#capmapvan
+{
+	position: absolute;
+	top: 1135px;
+}
+
+#homeheadz
+{
+	font-size: 50px;
+	position: absolute;
+	top: 275px;
+	left: 400px;
+	color: white;
+}
+
+#homereal
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+#firez
+{
+	position: absolute;
+	top: 3380px;
+	
+}
+
+#vancirclesr200000
+{
+
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 550px;
+    height:165px;    
+	font-size: 22px;
+	position: absolute;
+	top: 3435px;
+	right: 140px;
+}
+#firecaptionz
+{
+	position: absoulte;
+	top: 3600px;
+
+}
+
+#vancirclesr 
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 550px;
+    height:321px;    
+	font-size: 22px;
+	position: absolute;
+	top: 3385px;
+}
+
+#wildlifeofvan
+{
+	font-size: 50px;
+	position: absolute;
+	top: 4000px;
+	left: 570px;
+	color: white;
+}
+
+#vanswild
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#mamvanwild
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#vanmampara
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+#birdvanwild
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#vanbirdz
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+#marlifez
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#marparaz
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#soilvany
+{
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	top: 7000px;
+	left: 610px;
+}
+
+#rcornerssoilvany
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 880px;
+    height:191px;    
+	font-size: 25px;
+	position: absolute;
+	right:10px;
+	top: 7400px;
+	text-align: center;
+}
+
+#activehum
+{
+	font-size: 50px;
+	position: absolute;
+	top: 9200px;
+	left:460px;
+	color: white;
+}
+
+#activehum2
+{
+	font-size: 50px;
+	position: absolute;
+	top: 7800px;
+	left:460px;
+	color: white;
+}
+
+#activehum3
+{
+	font-size: 50px;
+	position: absolute;
+	top: 8100px;
+	left:480px;
+	color: white;
+}
+
+#transcorr
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 550px;
+    height:145px;    
+	font-size: 22px;
+	position: absolute;
+	top: 8685px;
+	right: 50px;
+}
+
+#industryz
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#stunpara
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#forestheady
+{
+	text-align:center;
+	font-size: 25px;
+}
+
+#prodpar
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 580px;
+    height:191px;    
+	font-size: 25px;
+	position: absolute;
+	right:60px;
+	top: 9700px;
+	text-align: center;
+}
+
+#prodpar2
+{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 580px;
+    height:220px;    
+	font-size: 25px;
+	position: absolute;
+	right:60px;
+	top: 8400px;
+	text-align: center;
+}
+
+#fishy
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#fishheady
+{
+	text-align: center;
+	font-size: 25px;
+}
+	
+#tourists
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#tourplaces
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+#headidroy
+{
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	top: 270px;
+	left: 520px;
+}
+
+#royalloc
+{ 
+	text-align: center;
+	font-size: 30px;
+}
+
+#eleroy
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+#soilvanyz
+{
+	font-size: 50px;
+	position: absolute;
+	top: 7000px;
+	left: 620px;
+	color: white;
+}
+
+#leachypr
+{
+	font-size: 25px;
+	text-align: center;
+}
+
+#bib
+{ 
+	font-size: 30px;
+	text-align: center;
+}
+
+#divstyle
+{
+	font-size: 10px;
+}
